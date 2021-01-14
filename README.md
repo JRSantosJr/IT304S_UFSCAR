@@ -1,2 +1,3 @@
 # IT304S_UFSCAR
-Presentação do projeto_Contratação de Energia para Grandes Consumidores
+Apresentação do projeto_Contratação de Energia para Grandes Consumidores
+Grupo 3, UFSCAR
